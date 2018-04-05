@@ -1,0 +1,8 @@
+{
+  "name": "liste-de-courses",
+  "app_id": "6b360db1",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
